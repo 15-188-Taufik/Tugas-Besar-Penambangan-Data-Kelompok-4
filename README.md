@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 Identitas Kelompok
 
-**Mata Kuliah:** Data Mining (IF3024) — Semester Genap 2025/2026  
+**Mata Kuliah:** Penambangan Data (IF25-32025) — Semester Genap 2025/2026  
 **Dosen Pengampu:** Meida Cahyo Untoro, S.Kom., M.Kom.  
 **Kelompok:** Anomaly Detection  
 **Topik:** Topik 3 — Anomaly Detection  
