@@ -9,7 +9,7 @@
 **Dosen Pengampu:** Meida Cahyo Untoro, S.Kom., M.Kom.  
 **Kelompok:** Anomaly Detection  
 **Topik:** Topik 3 — Anomaly Detection  
-**Tanggal:** April 2026
+**Tanggal:** 29 Mei 2026
 
 ---
 
@@ -25,7 +25,6 @@
 | 6 | 123140121 | Fanisa Aulia Safitri | Implementasi DBSCAN dan evaluasi klasifikasi,12.5% |
 | 7 | 123140188 | Taufik Hidayat NST | Ketua kelompok, penulisan laporan dan dokumentasi,12.5% |
 
-**Tanggal:** 29 Mei 2026
 
 ---
 
