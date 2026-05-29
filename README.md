@@ -16,14 +16,16 @@
 ## 👥 Anggota Kelompok
 
 | No | NIM | Nama Lengkap | Kontribusi |
-|----|-----|--------------|------------|
-| 1 | 123140188 | Taufik Hidayat NST | Pendahuluan, Tinjauan Pustaka (15%) |
-| 2 | 123140062 | Nabila Ramadhani M | Metodologi, EDA (15%) |
-| 3 | 123140071 | Willy Syifa Luthfia | Hasil & Pembahasan (14%) |
-| 4 | 123140121 | Fanisa Aulia Safitri | Kesimpulan, Saran, Referensi (14%) |
-| 5 | 123140070 | Annisa Salsabila | Implementasi DBSCAN & Consensus Voting (14%) |
-| 6 | 123140044 | Jesika Filosovi Br P-A | Implementasi Isolation Forest & LOF (14%) |
-| 7 | 123140043 | Tengku Hafid Diraputra | Coding Notebook, Testing & Pipeline (14%) |
+|----|-----|-------------|-----------|
+| 1 | 123140043 | Tengku Hafid Diraputra | Coding notebook dan pipeline integration, 12.5%|
+| 2 | 123140044 | Jesika Filosovi Br P-A | EDA dan visualisasi data, 12.5% |
+| 3 | 123140062 | Nabila Ramadhani Mujahidin | Preprocessing dan estimasi parameter, 12.5%|
+| 4 | 123140070 | Annisa Salsabila | Implementasi LOF dan consensus voting,12.5% |
+| 5 | 123140071 | Willy Syifa Luthfia | Implementasi Isolation Forest dan evaluasi cleaning,12.5% |
+| 6 | 123140121 | Fanisa Aulia Safitri | Implementasi DBSCAN dan evaluasi klasifikasi,12.5% |
+| 7 | 123140188 | Taufik Hidayat NST | Ketua kelompok, penulisan laporan dan dokumentasi,12.5% |
+
+**Tanggal:** 29 Mei 2026
 
 ---
 
